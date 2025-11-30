@@ -2,7 +2,7 @@
 ---
 # İlk Versyon :
 # İndirme Linki:
-# GameJlot İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
+# GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
 # Durum: Oyun Yayınlandı.
 # Çıkış Tarihi: 14 Kasım 2025.
