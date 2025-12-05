@@ -18,7 +18,8 @@
 # 1.0 (FİNAL SÜRÜM) (? MB) :
 # İndirme Linki: Çıkışda Eklenecek.
 # Durum: Henüz Yayınlanmadı.
-# Çıkış Tarihi: BUGÜN BELİRLİ BİR SAATTE!
+# Çıkış Tarihi: BUGÜN RASTGELE BİR SAATTE⌛!
 # OS/OS'lar: Windows, Android.
 # YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXgR
+⚠️ Bu sürüm finaldir. Oyuna daha güncelleme gelmeyecektir.
 ---
