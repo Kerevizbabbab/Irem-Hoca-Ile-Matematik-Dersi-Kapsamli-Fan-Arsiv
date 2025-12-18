@@ -1,9 +1,11 @@
 ---
 # 📌 Not: Bu proje resmi dağıtım değildir, fan arşivi olarak hazırlanmıştır.
 ---
-# WinRAR Kurulumu:
-# .rar Dosyalarını Açmak İçin Windows'da WinRAR Kullanılabilir. Oyunun Windows'da Çalışması İçin WinRAR Programı Gereklidir.
-# WinRAR İndir: https://www.win-rar.com/
+# Dosya Arşivleme ve Sıkıştırma Programı:
+# .rar Dosyalarını Açmak İçin Bir "Dosya Arşivleme ve Sıkıştırma" Programı Gereklidir. Oyun, Windows'da .rar Dosyası İçinde Paketlenmiştir. Aşağıda Sizin İçin 3 Güvenilir Dosya Arşivleme ve Sıkıştırma Programını Listeledik. (Android İçin Ekstra Bir Program Kurmanıza Gerek Yoktur.
+★ WinRAR > https://www.win-rar.com/
+★ 7-Zip > https://www.7-zip.org/download.html/
+★ PeaZip > https://www.github.com/peazip/PeaZip/releases/
 ---
 # Oyunu İndir:
 ---
