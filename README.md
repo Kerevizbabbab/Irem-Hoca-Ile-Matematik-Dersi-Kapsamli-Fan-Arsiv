@@ -29,8 +29,8 @@
 ---
 # YILBAŞI GÜNCELLEMESİ! (Sürüm: Bilinmiyor) (Boyut: Bilinmiyor)
 # İndrime Linki: Çıkışda Eklenecek.
-# Durum: Duyuruldu.
-# Çıkış Tarihi: Bilinmiyor.
+# Durum: Oyun Yayınlanmadı.
+# Çıkış Tarihi: 26 Aralık 2025.
 # OS/OS'lar: Windows, Android (Kesin Değil.)
 # YouTube Trailer: Yayınlanırsa Eklenecek.
 # ⚠️ BU GÜNCELLEMENİN FİNAL OLUP OLMAYACAĞI BİLİNMİYOR!
