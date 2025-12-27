@@ -27,11 +27,11 @@
 # OS/OS'lar: Windows, Android.
 # YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXg
 ---
-# YILBAŞI GÜNCELLEMESİ! (Sürüm: Bilinmiyor) (Boyut: Bilinmiyor)
+# 2026 Yılbaşı Özel Güncelleme! (194 MB)
 # İndrime Linki:
 # GameJolt Store İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
-# Durum: BUGÜN HERHANGİ BİR SAATTE!⌛
+# Durum: Oyun Yayınlandı.
 # Çıkış Tarihi: 27 Aralık 2025.
 # OS/OS'lar: Windows.
 # YouTube Trailer: Yayınlanmadı.
