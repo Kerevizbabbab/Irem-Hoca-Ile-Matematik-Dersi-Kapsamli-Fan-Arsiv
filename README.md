@@ -28,7 +28,7 @@
 # YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXg
 ---
 # 2026 Yılbaşı Özel Güncelleme! (194 MB)
-# İndrime Linki:
+# İndirme Linki:
 # GameJolt Store İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
 # itch.io İndirme Linki: https://dsold1er87.itch.io/iremhocailematematikdersi
 # Durum: Oyun Yayınlandı.
